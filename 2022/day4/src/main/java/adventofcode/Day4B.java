@@ -10,7 +10,7 @@ import java.time.temporal.ValueRange;
 
 public class Day4B {
   public static void main(String[] args) throws IOException {
-    URL resource = Day3A.class.getClassLoader().getResource("input.txt");
+    URL resource = Day4B.class.getClassLoader().getResource("input.txt");
     int nOverlaps =
         Files.newBufferedReader(new File(resource.getPath()).toPath()) //
             .lines()

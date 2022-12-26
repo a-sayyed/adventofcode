@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Day2A {
   public static void main(String[] args) throws IOException {
-    URL resource = Day3A.class.getClassLoader().getResource("input.txt");
+    URL resource = Day2A.class.getClassLoader().getResource("input.txt");
 
     int score =
         Files.newBufferedReader(new File(resource.getPath()).toPath())

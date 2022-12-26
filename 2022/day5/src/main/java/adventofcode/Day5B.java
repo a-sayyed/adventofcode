@@ -23,7 +23,7 @@ public class Day5B {
       Pattern.compile("^move (?<count>\\d+) from (?<from>\\d+) to (?<to>\\d+)");
 
   public static void main(String[] args) throws IOException {
-    URL resource = Day3A.class.getClassLoader().getResource("input.txt");
+    URL resource = Day5B.class.getClassLoader().getResource("input.txt");
     Files.newBufferedReader(new File(resource.getPath()).toPath()).lines().forEach(Day5B::parse);
 
     System.out.println(

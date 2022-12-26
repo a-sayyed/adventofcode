@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 
 public class Day4A {
   public static void main(String[] args) throws IOException {
-    URL resource = Day3A.class.getClassLoader().getResource("input.txt");
+    URL resource = Day4A.class.getClassLoader().getResource("input.txt");
     int nDuplicates =
         Files.newBufferedReader(new File(resource.getPath()).toPath()) //
             .lines()

@@ -11,7 +11,7 @@ import java.util.Optional;
 
 public class Day1B {
   public static void main(String[] args) throws IOException {
-    URL resource = Day2B.class.getClassLoader().getResource("input.txt");
+    URL resource = Day1B.class.getClassLoader().getResource("input.txt");
     assert resource != null;
 
     Deque<Elf> elves = new ArrayDeque<>();

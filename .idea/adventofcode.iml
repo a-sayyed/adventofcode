@@ -21,6 +21,38 @@
       <sourceFolder url="file://$MODULE_DIR$/2022/day8/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/2022/day9/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2022/day9/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day10/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day10/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day11/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day11/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day12/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day12/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day13/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day13/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day14/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day14/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day15/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day15/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day16/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day16/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day17/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day17/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day18/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day18/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day19/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day19/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day20/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day20/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day21/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day21/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day22/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day22/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day23/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day23/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day24/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day24/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day25/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day25/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

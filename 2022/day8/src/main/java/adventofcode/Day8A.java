@@ -18,7 +18,7 @@ public class Day8A {
   private static int ROW = 0;
 
   public static void main(String[] args) throws IOException {
-    URL resource = Day9A.class.getClassLoader().getResource("input.txt");
+    URL resource = Day8A.class.getClassLoader().getResource("input.txt");
     Files.newBufferedReader(new File(resource.getPath()).toPath()).lines().forEach(Day8A::parse);
     var count = countVisibleTrees();
     System.out.println(count);

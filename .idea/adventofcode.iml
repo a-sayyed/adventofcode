@@ -17,6 +17,10 @@
       <sourceFolder url="file://$MODULE_DIR$/2022/day6/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/2022/day7/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2022/day7/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day8/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day8/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day9/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022/day9/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
